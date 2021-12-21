@@ -1,0 +1,134 @@
+{
+    "Commonweale": [
+        {
+            "word_id": "0",
+            "align_id": "0"
+        }
+    ],
+    "is": [
+        {
+            "word_id": "1",
+            "align_id": "1"
+        }
+    ],
+    "a": [
+        {
+            "word_id": "2",
+            "align_id": "2"
+        }
+    ],
+    "lawfull": [
+        {
+            "word_id": "3",
+            "align_id": "3"
+        }
+    ],
+    "government": [
+        {
+            "word_id": "4",
+            "align_id": "4"
+        }
+    ],
+    "of": [
+        {
+            "word_id": "5",
+            "align_id": "5"
+        }
+    ],
+    "many": [
+        {
+            "word_id": "6",
+            "align_id": "6"
+        }
+    ],
+    "families": [
+        {
+            "word_id": "7",
+            "align_id": "7"
+        }
+    ],
+    ",": [
+        {
+            "word_id": "8",
+            "align_id": "8"
+        }
+    ],
+    "and": [
+        {
+            "word_id": "9",
+            "align_id": "9"
+        }
+    ],
+    "that": [
+        {
+            "word_id": "11",
+            "align_id": "10"
+        }
+    ],
+    "which": [
+        {
+            "word_id": "12",
+            "align_id": "11"
+        }
+    ],
+    "unto": [
+        {
+            "word_id": "13",
+            "align_id": "None"
+        }
+    ],
+    "them": [
+        {
+            "word_id": "14",
+            "align_id": "12"
+        }
+    ],
+    "in": [
+        {
+            "word_id": "15",
+            "align_id": "None"
+        }
+    ],
+    "common": [
+        {
+            "word_id": "16",
+            "align_id": "13"
+        }
+    ],
+    "belongeth": [
+        {
+            "word_id": "17",
+            "align_id": "None"
+        }
+    ],
+    "with": [
+        {
+            "word_id": "19",
+            "align_id": "14"
+        }
+    ],
+    "puissant": [
+        {
+            "word_id": "21",
+            "align_id": "15"
+        }
+    ],
+    "soveraigntie": [
+        {
+            "word_id": "22",
+            "align_id": "None"
+        }
+    ],
+    ".": [
+        {
+            "word_id": "23",
+            "align_id": "17"
+        }
+    ],
+    "": [
+        {
+            "word_id": "24",
+            "align_id": "None"
+        }
+    ]
+}

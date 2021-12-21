@@ -1,0 +1,110 @@
+{
+    "REPUBLIQUE": [
+        {
+            "word_id": "0",
+            "align_id": "0"
+        }
+    ],
+    "est": [
+        {
+            "word_id": "1",
+            "align_id": "1"
+        }
+    ],
+    "un": [
+        {
+            "word_id": "2",
+            "align_id": "2"
+        }
+    ],
+    "droit": [
+        {
+            "word_id": "3",
+            "align_id": "3"
+        }
+    ],
+    "gouvernement": [
+        {
+            "word_id": "4",
+            "align_id": "4"
+        }
+    ],
+    "de": [
+        {
+            "word_id": "5",
+            "align_id": "5"
+        }
+    ],
+    "plusieurs": [
+        {
+            "word_id": "6",
+            "align_id": "6"
+        }
+    ],
+    "mesnages": [
+        {
+            "word_id": "7",
+            "align_id": "7"
+        }
+    ],
+    ",": [
+        {
+            "word_id": "8",
+            "align_id": "8"
+        }
+    ],
+    "&": [
+        {
+            "word_id": "9",
+            "align_id": "9"
+        }
+    ],
+    "ce": [
+        {
+            "word_id": "11",
+            "align_id": "10"
+        }
+    ],
+    "qui": [
+        {
+            "word_id": "12",
+            "align_id": "11"
+        }
+    ],
+    "leur": [
+        {
+            "word_id": "13",
+            "align_id": "12"
+        }
+    ],
+    "commun": [
+        {
+            "word_id": "15",
+            "align_id": "13"
+        }
+    ],
+    "avec": [
+        {
+            "word_id": "17",
+            "align_id": "14"
+        }
+    ],
+    "puissance": [
+        {
+            "word_id": "18",
+            "align_id": "15"
+        }
+    ],
+    "souveraine": [
+        {
+            "word_id": "19",
+            "align_id": "16"
+        }
+    ],
+    ".": [
+        {
+            "word_id": "20",
+            "align_id": "17"
+        }
+    ]
+}
