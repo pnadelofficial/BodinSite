@@ -28,7 +28,7 @@ $(document).ready(function(){
               }, .5).delay(.5).queue(function(){
                 $(this).animate({
                   backgroundColor: "transparent"
-                }, 1000).dequeue();
+                }, .5);//.dequeue();
               });
             }
           });
