@@ -1,110 +1,182 @@
-{
-    "REPUBLIQUE": [
-        {
-            "word_id": "0",
-            "align_id": "0"
-        }
+[
+    [
+        "REPUBLIQUE",
+        [
+            {
+                "word_text": "REPUBLIQUE",
+                "word_id": 0,
+                "align_id": "0"
+            }
+        ]
     ],
-    "est": [
-        {
-            "word_id": "1",
-            "align_id": "1"
-        }
+    [
+        "est1",
+        [
+            {
+                "word_text": "est",
+                "word_id": 1,
+                "align_id": "None"
+            }
+        ]
     ],
-    "un": [
-        {
-            "word_id": "2",
-            "align_id": "2"
-        }
+    [
+        "un",
+        [
+            {
+                "word_text": "un",
+                "word_id": 2,
+                "align_id": "2"
+            }
+        ]
     ],
-    "droit": [
-        {
-            "word_id": "3",
-            "align_id": "3"
-        }
+    [
+        "droit",
+        [
+            {
+                "word_text": "droit",
+                "word_id": 3,
+                "align_id": "3"
+            }
+        ]
     ],
-    "gouvernement": [
-        {
-            "word_id": "4",
-            "align_id": "4"
-        }
+    [
+        "gouvernement",
+        [
+            {
+                "word_text": "gouvernement",
+                "word_id": 4,
+                "align_id": "4"
+            }
+        ]
     ],
-    "de": [
-        {
-            "word_id": "5",
-            "align_id": "5"
-        }
+    [
+        "de5",
+        [
+            {
+                "word_text": "de",
+                "word_id": 5,
+                "align_id": "None"
+            }
+        ]
     ],
-    "plusieurs": [
-        {
-            "word_id": "6",
-            "align_id": "6"
-        }
+    [
+        "plusieurs",
+        [
+            {
+                "word_text": "plusieurs",
+                "word_id": 6,
+                "align_id": "6"
+            }
+        ]
     ],
-    "mesnages": [
-        {
-            "word_id": "7",
-            "align_id": "7"
-        }
+    [
+        "mesnages,",
+        [
+            {
+                "word_text": "mesnages,",
+                "word_id": 7,
+                "align_id": "7"
+            }
+        ]
     ],
-    ",": [
-        {
-            "word_id": "8",
-            "align_id": "8"
-        }
+    [
+        "&",
+        [
+            {
+                "word_text": "&",
+                "word_id": 8,
+                "align_id": "8"
+            }
+        ]
     ],
-    "&": [
-        {
-            "word_id": "9",
-            "align_id": "9"
-        }
+    [
+        "de9",
+        [
+            {
+                "word_text": "de",
+                "word_id": 9,
+                "align_id": "None"
+            }
+        ]
     ],
-    "ce": [
-        {
-            "word_id": "11",
-            "align_id": "10"
-        }
+    [
+        "ce",
+        [
+            {
+                "word_text": "ce",
+                "word_id": 10,
+                "align_id": "9"
+            }
+        ]
     ],
-    "qui": [
-        {
-            "word_id": "12",
-            "align_id": "11"
-        }
+    [
+        "qui",
+        [
+            {
+                "word_text": "qui",
+                "word_id": 11,
+                "align_id": "10"
+            }
+        ]
     ],
-    "leur": [
-        {
-            "word_id": "13",
-            "align_id": "12"
-        }
+    [
+        "leur",
+        [
+            {
+                "word_text": "leur",
+                "word_id": 12,
+                "align_id": "11"
+            }
+        ]
     ],
-    "commun": [
-        {
-            "word_id": "15",
-            "align_id": "13"
-        }
+    [
+        "est13",
+        [
+            {
+                "word_text": "est",
+                "word_id": 13,
+                "align_id": "None"
+            }
+        ]
     ],
-    "avec": [
-        {
-            "word_id": "17",
-            "align_id": "14"
-        }
+    [
+        "commun,",
+        [
+            {
+                "word_text": "commun,",
+                "word_id": 14,
+                "align_id": "12"
+            }
+        ]
     ],
-    "puissance": [
-        {
-            "word_id": "18",
-            "align_id": "15"
-        }
+    [
+        "avec",
+        [
+            {
+                "word_text": "avec",
+                "word_id": 15,
+                "align_id": "13"
+            }
+        ]
     ],
-    "souveraine": [
-        {
-            "word_id": "19",
-            "align_id": "16"
-        }
+    [
+        "puissance",
+        [
+            {
+                "word_text": "puissance",
+                "word_id": 16,
+                "align_id": "14"
+            }
+        ]
     ],
-    ".": [
-        {
-            "word_id": "20",
-            "align_id": "17"
-        }
+    [
+        "souveraine.",
+        [
+            {
+                "word_text": "souveraine.",
+                "word_id": 17,
+                "align_id": "15"
+            }
+        ]
     ]
-}
+]

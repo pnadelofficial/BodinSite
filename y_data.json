@@ -1,134 +1,222 @@
-{
-    "Commonweale": [
-        {
-            "word_id": "0",
-            "align_id": "0"
-        }
+[
+    [
+        "A",
+        [
+            {
+                "word_text": "A",
+                "word_id": 0,
+                "align_id": "None"
+            }
+        ]
     ],
-    "is": [
-        {
-            "word_id": "1",
-            "align_id": "1"
-        }
+    [
+        "Commonweale",
+        [
+            {
+                "word_text": "Commonweale",
+                "word_id": 1,
+                "align_id": "0"
+            }
+        ]
     ],
-    "a": [
-        {
-            "word_id": "2",
-            "align_id": "2"
-        }
+    [
+        "is",
+        [
+            {
+                "word_text": "is",
+                "word_id": 2,
+                "align_id": "1"
+            }
+        ]
     ],
-    "lawfull": [
-        {
-            "word_id": "3",
-            "align_id": "3"
-        }
+    [
+        "a3",
+        [
+            {
+                "word_text": "a",
+                "word_id": 3,
+                "align_id": "None"
+            }
+        ]
     ],
-    "government": [
-        {
-            "word_id": "4",
-            "align_id": "4"
-        }
+    [
+        "lawfull",
+        [
+            {
+                "word_text": "lawfull",
+                "word_id": 4,
+                "align_id": "3"
+            }
+        ]
     ],
-    "of": [
-        {
-            "word_id": "5",
-            "align_id": "5"
-        }
+    [
+        "government",
+        [
+            {
+                "word_text": "government",
+                "word_id": 5,
+                "align_id": "4"
+            }
+        ]
     ],
-    "many": [
-        {
-            "word_id": "6",
-            "align_id": "6"
-        }
+    [
+        "of6",
+        [
+            {
+                "word_text": "of",
+                "word_id": 6,
+                "align_id": "None"
+            }
+        ]
     ],
-    "families": [
-        {
-            "word_id": "7",
-            "align_id": "7"
-        }
+    [
+        "many",
+        [
+            {
+                "word_text": "many",
+                "word_id": 7,
+                "align_id": "6"
+            }
+        ]
     ],
-    ",": [
-        {
-            "word_id": "8",
-            "align_id": "8"
-        }
+    [
+        "families,",
+        [
+            {
+                "word_text": "families,",
+                "word_id": 8,
+                "align_id": "7"
+            }
+        ]
     ],
-    "and": [
-        {
-            "word_id": "9",
-            "align_id": "9"
-        }
+    [
+        "and",
+        [
+            {
+                "word_text": "and",
+                "word_id": 9,
+                "align_id": "8"
+            }
+        ]
     ],
-    "that": [
-        {
-            "word_id": "11",
-            "align_id": "10"
-        }
+    [
+        "of10",
+        [
+            {
+                "word_text": "of",
+                "word_id": 10,
+                "align_id": "None"
+            }
+        ]
     ],
-    "which": [
-        {
-            "word_id": "12",
-            "align_id": "11"
-        }
+    [
+        "that",
+        [
+            {
+                "word_text": "that",
+                "word_id": 11,
+                "align_id": "9"
+            }
+        ]
     ],
-    "unto": [
-        {
-            "word_id": "13",
-            "align_id": "None"
-        }
+    [
+        "which",
+        [
+            {
+                "word_text": "which",
+                "word_id": 12,
+                "align_id": "10"
+            }
+        ]
     ],
-    "them": [
-        {
-            "word_id": "14",
-            "align_id": "12"
-        }
+    [
+        "unto",
+        [
+            {
+                "word_text": "unto",
+                "word_id": 13,
+                "align_id": "None"
+            }
+        ]
     ],
-    "in": [
-        {
-            "word_id": "15",
-            "align_id": "None"
-        }
+    [
+        "them",
+        [
+            {
+                "word_text": "them",
+                "word_id": 14,
+                "align_id": "11"
+            }
+        ]
     ],
-    "common": [
-        {
-            "word_id": "16",
-            "align_id": "13"
-        }
+    [
+        "in",
+        [
+            {
+                "word_text": "in",
+                "word_id": 15,
+                "align_id": "None"
+            }
+        ]
     ],
-    "belongeth": [
-        {
-            "word_id": "17",
-            "align_id": "None"
-        }
+    [
+        "common",
+        [
+            {
+                "word_text": "common",
+                "word_id": 16,
+                "align_id": "12"
+            }
+        ]
     ],
-    "with": [
-        {
-            "word_id": "19",
-            "align_id": "14"
-        }
+    [
+        "belongeth,",
+        [
+            {
+                "word_text": "belongeth,",
+                "word_id": 17,
+                "align_id": "None"
+            }
+        ]
     ],
-    "puissant": [
-        {
-            "word_id": "21",
-            "align_id": "15"
-        }
+    [
+        "with",
+        [
+            {
+                "word_text": "with",
+                "word_id": 18,
+                "align_id": "13"
+            }
+        ]
     ],
-    "soveraigntie": [
-        {
-            "word_id": "22",
-            "align_id": "None"
-        }
+    [
+        "a19",
+        [
+            {
+                "word_text": "a",
+                "word_id": 19,
+                "align_id": "None"
+            }
+        ]
     ],
-    ".": [
-        {
-            "word_id": "23",
-            "align_id": "17"
-        }
+    [
+        "puissant",
+        [
+            {
+                "word_text": "puissant",
+                "word_id": 20,
+                "align_id": "14"
+            }
+        ]
     ],
-    "": [
-        {
-            "word_id": "24",
-            "align_id": "None"
-        }
+    [
+        "soveraigntie.",
+        [
+            {
+                "word_text": "soveraigntie.",
+                "word_id": 21,
+                "align_id": "15"
+            }
+        ]
     ]
-}
+]

@@ -1,4 +1,34 @@
+word[align_id="None"] {
+  color: red;
+}
 
-.word {
-  font-size: 10rem;
+/* use for any tag on your page */
+word[data-title]:hover:after {
+    opacity: 1;
+    transition: all 0.1s ease 0.5s;
+    visibility: visible;
+}
+/* box for title text */
+word[data-title]:after {
+    content: attr(data-title);
+  	/* position for title view box */
+  	position: absolute;
+  	bottom: -1.6em;
+    left: 100%;
+    z-index: 99999;
+    width: auto;
+    visibility: hidden;
+    /* optional */
+    /*white-space: nowrap;*/
+  	/* stilization */
+    background-color: #B0C4DE;
+    color: #111;
+    font-size: 100%;
+    padding: 1px 5px 2px 5px;
+    box-shadow: 1px 1px 3px #222222;
+    opacity: 0;
+    border: 1px solid #111111;
+}
+word[data-title] {
+    position: relative;
 }

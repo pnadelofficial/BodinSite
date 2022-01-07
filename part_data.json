@@ -1,0 +1,4380 @@
+{
+    "0": [
+        {
+            "sent_src": [
+                [
+                    "REPUBLIQUE",
+                    [
+                        {
+                            "word_text": "REPUBLIQUE",
+                            "word_id": 0,
+                            "align_id": "0"
+                        }
+                    ]
+                ],
+                [
+                    "est1",
+                    [
+                        {
+                            "word_text": "est",
+                            "word_id": 1,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "un",
+                    [
+                        {
+                            "word_text": "un",
+                            "word_id": 2,
+                            "align_id": "2"
+                        }
+                    ]
+                ],
+                [
+                    "droit",
+                    [
+                        {
+                            "word_text": "droit",
+                            "word_id": 3,
+                            "align_id": "3"
+                        }
+                    ]
+                ],
+                [
+                    "gouvernement",
+                    [
+                        {
+                            "word_text": "gouvernement",
+                            "word_id": 4,
+                            "align_id": "4"
+                        }
+                    ]
+                ],
+                [
+                    "de5",
+                    [
+                        {
+                            "word_text": "de",
+                            "word_id": 5,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "plusieurs",
+                    [
+                        {
+                            "word_text": "plusieurs",
+                            "word_id": 6,
+                            "align_id": "6"
+                        }
+                    ]
+                ],
+                [
+                    "mesnages,",
+                    [
+                        {
+                            "word_text": "mesnages,",
+                            "word_id": 7,
+                            "align_id": "7"
+                        }
+                    ]
+                ],
+                [
+                    "&",
+                    [
+                        {
+                            "word_text": "&",
+                            "word_id": 8,
+                            "align_id": "8"
+                        }
+                    ]
+                ],
+                [
+                    "de9",
+                    [
+                        {
+                            "word_text": "de",
+                            "word_id": 9,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "ce",
+                    [
+                        {
+                            "word_text": "ce",
+                            "word_id": 10,
+                            "align_id": "9"
+                        }
+                    ]
+                ],
+                [
+                    "qui",
+                    [
+                        {
+                            "word_text": "qui",
+                            "word_id": 11,
+                            "align_id": "10"
+                        }
+                    ]
+                ],
+                [
+                    "leur",
+                    [
+                        {
+                            "word_text": "leur",
+                            "word_id": 12,
+                            "align_id": "11"
+                        }
+                    ]
+                ],
+                [
+                    "est13",
+                    [
+                        {
+                            "word_text": "est",
+                            "word_id": 13,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "commun,",
+                    [
+                        {
+                            "word_text": "commun,",
+                            "word_id": 14,
+                            "align_id": "12"
+                        }
+                    ]
+                ],
+                [
+                    "avec",
+                    [
+                        {
+                            "word_text": "avec",
+                            "word_id": 15,
+                            "align_id": "13"
+                        }
+                    ]
+                ],
+                [
+                    "puissance",
+                    [
+                        {
+                            "word_text": "puissance",
+                            "word_id": 16,
+                            "align_id": "14"
+                        }
+                    ]
+                ],
+                [
+                    "souveraine.",
+                    [
+                        {
+                            "word_text": "souveraine.",
+                            "word_id": 17,
+                            "align_id": "15"
+                        }
+                    ]
+                ]
+            ],
+            "sent_tgt": [
+                [
+                    "A",
+                    [
+                        {
+                            "word_text": "A",
+                            "word_id": 0,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "Commonweale",
+                    [
+                        {
+                            "word_text": "Commonweale",
+                            "word_id": 1,
+                            "align_id": "0"
+                        }
+                    ]
+                ],
+                [
+                    "is",
+                    [
+                        {
+                            "word_text": "is",
+                            "word_id": 2,
+                            "align_id": "1"
+                        }
+                    ]
+                ],
+                [
+                    "a3",
+                    [
+                        {
+                            "word_text": "a",
+                            "word_id": 3,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "lawfull",
+                    [
+                        {
+                            "word_text": "lawfull",
+                            "word_id": 4,
+                            "align_id": "3"
+                        }
+                    ]
+                ],
+                [
+                    "government",
+                    [
+                        {
+                            "word_text": "government",
+                            "word_id": 5,
+                            "align_id": "4"
+                        }
+                    ]
+                ],
+                [
+                    "of6",
+                    [
+                        {
+                            "word_text": "of",
+                            "word_id": 6,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "many",
+                    [
+                        {
+                            "word_text": "many",
+                            "word_id": 7,
+                            "align_id": "6"
+                        }
+                    ]
+                ],
+                [
+                    "families,",
+                    [
+                        {
+                            "word_text": "families,",
+                            "word_id": 8,
+                            "align_id": "7"
+                        }
+                    ]
+                ],
+                [
+                    "and",
+                    [
+                        {
+                            "word_text": "and",
+                            "word_id": 9,
+                            "align_id": "8"
+                        }
+                    ]
+                ],
+                [
+                    "of10",
+                    [
+                        {
+                            "word_text": "of",
+                            "word_id": 10,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "that",
+                    [
+                        {
+                            "word_text": "that",
+                            "word_id": 11,
+                            "align_id": "9"
+                        }
+                    ]
+                ],
+                [
+                    "which",
+                    [
+                        {
+                            "word_text": "which",
+                            "word_id": 12,
+                            "align_id": "10"
+                        }
+                    ]
+                ],
+                [
+                    "unto",
+                    [
+                        {
+                            "word_text": "unto",
+                            "word_id": 13,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "them",
+                    [
+                        {
+                            "word_text": "them",
+                            "word_id": 14,
+                            "align_id": "11"
+                        }
+                    ]
+                ],
+                [
+                    "in",
+                    [
+                        {
+                            "word_text": "in",
+                            "word_id": 15,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "common",
+                    [
+                        {
+                            "word_text": "common",
+                            "word_id": 16,
+                            "align_id": "12"
+                        }
+                    ]
+                ],
+                [
+                    "belongeth,",
+                    [
+                        {
+                            "word_text": "belongeth,",
+                            "word_id": 17,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "with",
+                    [
+                        {
+                            "word_text": "with",
+                            "word_id": 18,
+                            "align_id": "13"
+                        }
+                    ]
+                ],
+                [
+                    "a19",
+                    [
+                        {
+                            "word_text": "a",
+                            "word_id": 19,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "puissant",
+                    [
+                        {
+                            "word_text": "puissant",
+                            "word_id": 20,
+                            "align_id": "14"
+                        }
+                    ]
+                ],
+                [
+                    "soveraigntie.",
+                    [
+                        {
+                            "word_text": "soveraigntie.",
+                            "word_id": 21,
+                            "align_id": "15"
+                        }
+                    ]
+                ]
+            ]
+        }
+    ],
+    "1": [
+        {
+            "sent_src": [
+                [
+                    "Nous",
+                    [
+                        {
+                            "word_text": "Nous",
+                            "word_id": 0,
+                            "align_id": "0"
+                        }
+                    ]
+                ],
+                [
+                    "mettons",
+                    [
+                        {
+                            "word_text": "mettons",
+                            "word_id": 1,
+                            "align_id": "1"
+                        }
+                    ]
+                ],
+                [
+                    "cette",
+                    [
+                        {
+                            "word_text": "cette",
+                            "word_id": 2,
+                            "align_id": "2"
+                        }
+                    ]
+                ],
+                [
+                    "definition",
+                    [
+                        {
+                            "word_text": "definition",
+                            "word_id": 3,
+                            "align_id": "3"
+                        }
+                    ]
+                ],
+                [
+                    "en4",
+                    [
+                        {
+                            "word_text": "en",
+                            "word_id": 4,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "premier",
+                    [
+                        {
+                            "word_text": "premier",
+                            "word_id": 5,
+                            "align_id": "5"
+                        }
+                    ]
+                ],
+                [
+                    "lieu,",
+                    [
+                        {
+                            "word_text": "lieu,",
+                            "word_id": 6,
+                            "align_id": "6"
+                        }
+                    ]
+                ],
+                [
+                    "par",
+                    [
+                        {
+                            "word_text": "par",
+                            "word_id": 7,
+                            "align_id": "7"
+                        }
+                    ]
+                ],
+                [
+                    "ce",
+                    [
+                        {
+                            "word_text": "ce",
+                            "word_id": 8,
+                            "align_id": "8"
+                        }
+                    ]
+                ],
+                [
+                    "qu’il",
+                    [
+                        {
+                            "word_text": "qu’il",
+                            "word_id": 9,
+                            "align_id": "9"
+                        }
+                    ]
+                ],
+                [
+                    "faut",
+                    [
+                        {
+                            "word_text": "faut",
+                            "word_id": 10,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "chercher",
+                    [
+                        {
+                            "word_text": "chercher",
+                            "word_id": 11,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "en12",
+                    [
+                        {
+                            "word_text": "en",
+                            "word_id": 12,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "toutes",
+                    [
+                        {
+                            "word_text": "toutes",
+                            "word_id": 13,
+                            "align_id": "10"
+                        }
+                    ]
+                ],
+                [
+                    "choses",
+                    [
+                        {
+                            "word_text": "choses",
+                            "word_id": 14,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "la",
+                    [
+                        {
+                            "word_text": "la",
+                            "word_id": 15,
+                            "align_id": "11"
+                        }
+                    ]
+                ],
+                [
+                    "fin",
+                    [
+                        {
+                            "word_text": "fin",
+                            "word_id": 16,
+                            "align_id": "12"
+                        }
+                    ]
+                ],
+                [
+                    "principale:",
+                    [
+                        {
+                            "word_text": "principale:",
+                            "word_id": 17,
+                            "align_id": "13"
+                        }
+                    ]
+                ],
+                [
+                    "&",
+                    [
+                        {
+                            "word_text": "&",
+                            "word_id": 18,
+                            "align_id": "14"
+                        }
+                    ]
+                ],
+                [
+                    "puis",
+                    [
+                        {
+                            "word_text": "puis",
+                            "word_id": 19,
+                            "align_id": "15"
+                        }
+                    ]
+                ],
+                [
+                    "apres",
+                    [
+                        {
+                            "word_text": "apres",
+                            "word_id": 20,
+                            "align_id": "16"
+                        }
+                    ]
+                ],
+                [
+                    "les",
+                    [
+                        {
+                            "word_text": "les",
+                            "word_id": 21,
+                            "align_id": "17"
+                        }
+                    ]
+                ],
+                [
+                    "moyens",
+                    [
+                        {
+                            "word_text": "moyens",
+                            "word_id": 22,
+                            "align_id": "18"
+                        }
+                    ]
+                ],
+                [
+                    "d’y",
+                    [
+                        {
+                            "word_text": "d’y",
+                            "word_id": 23,
+                            "align_id": "19"
+                        }
+                    ]
+                ],
+                [
+                    "parvenir.",
+                    [
+                        {
+                            "word_text": "parvenir.",
+                            "word_id": 24,
+                            "align_id": "20"
+                        }
+                    ]
+                ]
+            ],
+            "sent_tgt": [
+                [
+                    "This",
+                    [
+                        {
+                            "word_text": "This",
+                            "word_id": 0,
+                            "align_id": "2"
+                        }
+                    ]
+                ],
+                [
+                    "definition",
+                    [
+                        {
+                            "word_text": "definition",
+                            "word_id": 1,
+                            "align_id": "3"
+                        }
+                    ]
+                ],
+                [
+                    "omitted",
+                    [
+                        {
+                            "word_text": "omitted",
+                            "word_id": 2,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "by",
+                    [
+                        {
+                            "word_text": "by",
+                            "word_id": 3,
+                            "align_id": "7"
+                        }
+                    ]
+                ],
+                [
+                    "them",
+                    [
+                        {
+                            "word_text": "them",
+                            "word_id": 4,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "which",
+                    [
+                        {
+                            "word_text": "which",
+                            "word_id": 5,
+                            "align_id": "9"
+                        }
+                    ]
+                ],
+                [
+                    "have6",
+                    [
+                        {
+                            "word_text": "have",
+                            "word_id": 6,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "written",
+                    [
+                        {
+                            "word_text": "written",
+                            "word_id": 7,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "of",
+                    [
+                        {
+                            "word_text": "of",
+                            "word_id": 8,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "a",
+                    [
+                        {
+                            "word_text": "a",
+                            "word_id": 9,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "Commonweale,",
+                    [
+                        {
+                            "word_text": "Commonweale,",
+                            "word_id": 10,
+                            "align_id": "6"
+                        }
+                    ]
+                ],
+                [
+                    "wee",
+                    [
+                        {
+                            "word_text": "wee",
+                            "word_id": 11,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "have12",
+                    [
+                        {
+                            "word_text": "have",
+                            "word_id": 12,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "placed",
+                    [
+                        {
+                            "word_text": "placed",
+                            "word_id": 13,
+                            "align_id": "1"
+                        }
+                    ]
+                ],
+                [
+                    "in14",
+                    [
+                        {
+                            "word_text": "in",
+                            "word_id": 14,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "the15",
+                    [
+                        {
+                            "word_text": "the",
+                            "word_id": 15,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "first16",
+                    [
+                        {
+                            "word_text": "first",
+                            "word_id": 16,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "place:",
+                    [
+                        {
+                            "word_text": "place:",
+                            "word_id": 17,
+                            "align_id": "13"
+                        }
+                    ]
+                ],
+                [
+                    "for",
+                    [
+                        {
+                            "word_text": "for",
+                            "word_id": 18,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "that",
+                    [
+                        {
+                            "word_text": "that",
+                            "word_id": 19,
+                            "align_id": "8"
+                        }
+                    ]
+                ],
+                [
+                    "in20",
+                    [
+                        {
+                            "word_text": "in",
+                            "word_id": 20,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "all",
+                    [
+                        {
+                            "word_text": "all",
+                            "word_id": 21,
+                            "align_id": "10"
+                        }
+                    ]
+                ],
+                [
+                    "arts",
+                    [
+                        {
+                            "word_text": "arts",
+                            "word_id": 22,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "and23",
+                    [
+                        {
+                            "word_text": "and",
+                            "word_id": 23,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "actions,",
+                    [
+                        {
+                            "word_text": "actions,",
+                            "word_id": 24,
+                            "align_id": "18"
+                        }
+                    ]
+                ],
+                [
+                    "it",
+                    [
+                        {
+                            "word_text": "it",
+                            "word_id": 25,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "behoveth",
+                    [
+                        {
+                            "word_text": "behoveth",
+                            "word_id": 26,
+                            "align_id": "16"
+                        }
+                    ]
+                ],
+                [
+                    "us",
+                    [
+                        {
+                            "word_text": "us",
+                            "word_id": 27,
+                            "align_id": "0"
+                        }
+                    ]
+                ],
+                [
+                    "first28",
+                    [
+                        {
+                            "word_text": "first",
+                            "word_id": 28,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "to29",
+                    [
+                        {
+                            "word_text": "to",
+                            "word_id": 29,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "behold",
+                    [
+                        {
+                            "word_text": "behold",
+                            "word_id": 30,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "the31",
+                    [
+                        {
+                            "word_text": "the",
+                            "word_id": 31,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "end,",
+                    [
+                        {
+                            "word_text": "end,",
+                            "word_id": 32,
+                            "align_id": "12"
+                        }
+                    ]
+                ],
+                [
+                    "and33",
+                    [
+                        {
+                            "word_text": "and",
+                            "word_id": 33,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "afterward",
+                    [
+                        {
+                            "word_text": "afterward",
+                            "word_id": 34,
+                            "align_id": "15"
+                        }
+                    ]
+                ],
+                [
+                    "the35",
+                    [
+                        {
+                            "word_text": "the",
+                            "word_id": 35,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "meanes",
+                    [
+                        {
+                            "word_text": "meanes",
+                            "word_id": 36,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "to37",
+                    [
+                        {
+                            "word_text": "to",
+                            "word_id": 37,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "attaine",
+                    [
+                        {
+                            "word_text": "attaine",
+                            "word_id": 38,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "therunto.",
+                    [
+                        {
+                            "word_text": "therunto.",
+                            "word_id": 39,
+                            "align_id": "20"
+                        }
+                    ]
+                ]
+            ]
+        }
+    ],
+    "2": [
+        {
+            "sent_src": [
+                [
+                    "Or",
+                    [
+                        {
+                            "word_text": "Or",
+                            "word_id": 0,
+                            "align_id": "0"
+                        }
+                    ]
+                ],
+                [
+                    "la1",
+                    [
+                        {
+                            "word_text": "la",
+                            "word_id": 1,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "definition",
+                    [
+                        {
+                            "word_text": "definition",
+                            "word_id": 2,
+                            "align_id": "1"
+                        }
+                    ]
+                ],
+                [
+                    "n'est3",
+                    [
+                        {
+                            "word_text": "n'est",
+                            "word_id": 3,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "autre",
+                    [
+                        {
+                            "word_text": "autre",
+                            "word_id": 4,
+                            "align_id": "3"
+                        }
+                    ]
+                ],
+                [
+                    "chose",
+                    [
+                        {
+                            "word_text": "chose",
+                            "word_id": 5,
+                            "align_id": "4"
+                        }
+                    ]
+                ],
+                [
+                    "que",
+                    [
+                        {
+                            "word_text": "que",
+                            "word_id": 6,
+                            "align_id": "5"
+                        }
+                    ]
+                ],
+                [
+                    "la7",
+                    [
+                        {
+                            "word_text": "la",
+                            "word_id": 7,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "fin",
+                    [
+                        {
+                            "word_text": "fin",
+                            "word_id": 8,
+                            "align_id": "7"
+                        }
+                    ]
+                ],
+                [
+                    "du",
+                    [
+                        {
+                            "word_text": "du",
+                            "word_id": 9,
+                            "align_id": "8"
+                        }
+                    ]
+                ],
+                [
+                    "sujet",
+                    [
+                        {
+                            "word_text": "sujet",
+                            "word_id": 10,
+                            "align_id": "9"
+                        }
+                    ]
+                ],
+                [
+                    "qui11",
+                    [
+                        {
+                            "word_text": "qui",
+                            "word_id": 11,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "se12",
+                    [
+                        {
+                            "word_text": "se",
+                            "word_id": 12,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "presente:",
+                    [
+                        {
+                            "word_text": "presente:",
+                            "word_id": 13,
+                            "align_id": "11"
+                        }
+                    ]
+                ],
+                [
+                    "&",
+                    [
+                        {
+                            "word_text": "&",
+                            "word_id": 14,
+                            "align_id": "12"
+                        }
+                    ]
+                ],
+                [
+                    "si",
+                    [
+                        {
+                            "word_text": "si",
+                            "word_id": 15,
+                            "align_id": "13"
+                        }
+                    ]
+                ],
+                [
+                    "elle",
+                    [
+                        {
+                            "word_text": "elle",
+                            "word_id": 16,
+                            "align_id": "14"
+                        }
+                    ]
+                ],
+                [
+                    "n'est17",
+                    [
+                        {
+                            "word_text": "n'est",
+                            "word_id": 17,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "bien18",
+                    [
+                        {
+                            "word_text": "bien",
+                            "word_id": 18,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "fondee,",
+                    [
+                        {
+                            "word_text": "fondee,",
+                            "word_id": 19,
+                            "align_id": "16"
+                        }
+                    ]
+                ],
+                [
+                    "tout",
+                    [
+                        {
+                            "word_text": "tout",
+                            "word_id": 20,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "ce",
+                    [
+                        {
+                            "word_text": "ce",
+                            "word_id": 21,
+                            "align_id": "17"
+                        }
+                    ]
+                ],
+                [
+                    "qui22",
+                    [
+                        {
+                            "word_text": "qui",
+                            "word_id": 22,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "sera",
+                    [
+                        {
+                            "word_text": "sera",
+                            "word_id": 23,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "basti",
+                    [
+                        {
+                            "word_text": "basti",
+                            "word_id": 24,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "sur",
+                    [
+                        {
+                            "word_text": "sur",
+                            "word_id": 25,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "icelle",
+                    [
+                        {
+                            "word_text": "icelle",
+                            "word_id": 26,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "se27",
+                    [
+                        {
+                            "word_text": "se",
+                            "word_id": 27,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "ruinera",
+                    [
+                        {
+                            "word_text": "ruinera",
+                            "word_id": 28,
+                            "align_id": "18"
+                        }
+                    ]
+                ],
+                [
+                    "bien29",
+                    [
+                        {
+                            "word_text": "bien",
+                            "word_id": 29,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "tost",
+                    [
+                        {
+                            "word_text": "tost",
+                            "word_id": 30,
+                            "align_id": "19"
+                        }
+                    ]
+                ],
+                [
+                    "apres.",
+                    [
+                        {
+                            "word_text": "apres.",
+                            "word_id": 31,
+                            "align_id": "20"
+                        }
+                    ]
+                ]
+            ],
+            "sent_tgt": [
+                [
+                    "For",
+                    [
+                        {
+                            "word_text": "For",
+                            "word_id": 0,
+                            "align_id": "0"
+                        }
+                    ]
+                ],
+                [
+                    "a1",
+                    [
+                        {
+                            "word_text": "a",
+                            "word_id": 1,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "definition",
+                    [
+                        {
+                            "word_text": "definition",
+                            "word_id": 2,
+                            "align_id": "1"
+                        }
+                    ]
+                ],
+                [
+                    "is",
+                    [
+                        {
+                            "word_text": "is",
+                            "word_id": 3,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "nothing",
+                    [
+                        {
+                            "word_text": "nothing",
+                            "word_id": 4,
+                            "align_id": "4"
+                        }
+                    ]
+                ],
+                [
+                    "else",
+                    [
+                        {
+                            "word_text": "else",
+                            "word_id": 5,
+                            "align_id": "3"
+                        }
+                    ]
+                ],
+                [
+                    "than",
+                    [
+                        {
+                            "word_text": "than",
+                            "word_id": 6,
+                            "align_id": "5"
+                        }
+                    ]
+                ],
+                [
+                    "the7",
+                    [
+                        {
+                            "word_text": "the",
+                            "word_id": 7,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "very",
+                    [
+                        {
+                            "word_text": "very",
+                            "word_id": 8,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "end",
+                    [
+                        {
+                            "word_text": "end",
+                            "word_id": 9,
+                            "align_id": "7"
+                        }
+                    ]
+                ],
+                [
+                    "and10",
+                    [
+                        {
+                            "word_text": "and",
+                            "word_id": 10,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "scope",
+                    [
+                        {
+                            "word_text": "scope",
+                            "word_id": 11,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "of",
+                    [
+                        {
+                            "word_text": "of",
+                            "word_id": 12,
+                            "align_id": "8"
+                        }
+                    ]
+                ],
+                [
+                    "the13",
+                    [
+                        {
+                            "word_text": "the",
+                            "word_id": 13,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "matter",
+                    [
+                        {
+                            "word_text": "matter",
+                            "word_id": 14,
+                            "align_id": "9"
+                        }
+                    ]
+                ],
+                [
+                    "propounded,",
+                    [
+                        {
+                            "word_text": "propounded,",
+                            "word_id": 15,
+                            "align_id": "11"
+                        }
+                    ]
+                ],
+                [
+                    "which",
+                    [
+                        {
+                            "word_text": "which",
+                            "word_id": 16,
+                            "align_id": "10"
+                        }
+                    ]
+                ],
+                [
+                    "if",
+                    [
+                        {
+                            "word_text": "if",
+                            "word_id": 17,
+                            "align_id": "13"
+                        }
+                    ]
+                ],
+                [
+                    "it",
+                    [
+                        {
+                            "word_text": "it",
+                            "word_id": 18,
+                            "align_id": "14"
+                        }
+                    ]
+                ],
+                [
+                    "be",
+                    [
+                        {
+                            "word_text": "be",
+                            "word_id": 19,
+                            "align_id": "2"
+                        }
+                    ]
+                ],
+                [
+                    "not",
+                    [
+                        {
+                            "word_text": "not",
+                            "word_id": 20,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "well",
+                    [
+                        {
+                            "word_text": "well",
+                            "word_id": 21,
+                            "align_id": "15"
+                        }
+                    ]
+                ],
+                [
+                    "and22",
+                    [
+                        {
+                            "word_text": "and",
+                            "word_id": 22,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "surely",
+                    [
+                        {
+                            "word_text": "surely",
+                            "word_id": 23,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "grounded,",
+                    [
+                        {
+                            "word_text": "grounded,",
+                            "word_id": 24,
+                            "align_id": "16"
+                        }
+                    ]
+                ],
+                [
+                    "whatsoever",
+                    [
+                        {
+                            "word_text": "whatsoever",
+                            "word_id": 25,
+                            "align_id": "17"
+                        }
+                    ]
+                ],
+                [
+                    "you",
+                    [
+                        {
+                            "word_text": "you",
+                            "word_id": 26,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "build",
+                    [
+                        {
+                            "word_text": "build",
+                            "word_id": 27,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "thereupon",
+                    [
+                        {
+                            "word_text": "thereupon",
+                            "word_id": 28,
+                            "align_id": "19"
+                        }
+                    ]
+                ],
+                [
+                    "must",
+                    [
+                        {
+                            "word_text": "must",
+                            "word_id": 29,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "together",
+                    [
+                        {
+                            "word_text": "together",
+                            "word_id": 30,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "and31",
+                    [
+                        {
+                            "word_text": "and",
+                            "word_id": 31,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "in",
+                    [
+                        {
+                            "word_text": "in",
+                            "word_id": 32,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "a33",
+                    [
+                        {
+                            "word_text": "a",
+                            "word_id": 33,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "moment",
+                    [
+                        {
+                            "word_text": "moment",
+                            "word_id": 34,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "fall.",
+                    [
+                        {
+                            "word_text": "fall.",
+                            "word_id": 35,
+                            "align_id": "18"
+                        }
+                    ]
+                ]
+            ]
+        }
+    ],
+    "3": [
+        {
+            "sent_src": [
+                [
+                    "Et",
+                    [
+                        {
+                            "word_text": "Et",
+                            "word_id": 0,
+                            "align_id": "0"
+                        }
+                    ]
+                ],
+                [
+                    "jaçoit",
+                    [
+                        {
+                            "word_text": "jaçoit",
+                            "word_id": 1,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "que2",
+                    [
+                        {
+                            "word_text": "que",
+                            "word_id": 2,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "celuy",
+                    [
+                        {
+                            "word_text": "celuy",
+                            "word_id": 3,
+                            "align_id": "2"
+                        }
+                    ]
+                ],
+                [
+                    "qui4",
+                    [
+                        {
+                            "word_text": "qui",
+                            "word_id": 4,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "a",
+                    [
+                        {
+                            "word_text": "a",
+                            "word_id": 5,
+                            "align_id": "3"
+                        }
+                    ]
+                ],
+                [
+                    "trouve6",
+                    [
+                        {
+                            "word_text": "trouve",
+                            "word_id": 6,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "la7",
+                    [
+                        {
+                            "word_text": "la",
+                            "word_id": 7,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "fin",
+                    [
+                        {
+                            "word_text": "fin",
+                            "word_id": 8,
+                            "align_id": "5"
+                        }
+                    ]
+                ],
+                [
+                    "de",
+                    [
+                        {
+                            "word_text": "de",
+                            "word_id": 9,
+                            "align_id": "6"
+                        }
+                    ]
+                ],
+                [
+                    "ce10",
+                    [
+                        {
+                            "word_text": "ce",
+                            "word_id": 10,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "qui11",
+                    [
+                        {
+                            "word_text": "qui",
+                            "word_id": 11,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "est",
+                    [
+                        {
+                            "word_text": "est",
+                            "word_id": 12,
+                            "align_id": "7"
+                        }
+                    ]
+                ],
+                [
+                    "mis",
+                    [
+                        {
+                            "word_text": "mis",
+                            "word_id": 13,
+                            "align_id": "8"
+                        }
+                    ]
+                ],
+                [
+                    "en",
+                    [
+                        {
+                            "word_text": "en",
+                            "word_id": 14,
+                            "align_id": "9"
+                        }
+                    ]
+                ],
+                [
+                    "avant,",
+                    [
+                        {
+                            "word_text": "avant,",
+                            "word_id": 15,
+                            "align_id": "10"
+                        }
+                    ]
+                ],
+                [
+                    "ne16",
+                    [
+                        {
+                            "word_text": "ne",
+                            "word_id": 16,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "trouve17",
+                    [
+                        {
+                            "word_text": "trouve",
+                            "word_id": 17,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "pas18",
+                    [
+                        {
+                            "word_text": "pas",
+                            "word_id": 18,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "tousjours",
+                    [
+                        {
+                            "word_text": "tousjours",
+                            "word_id": 19,
+                            "align_id": "13"
+                        }
+                    ]
+                ],
+                [
+                    "les",
+                    [
+                        {
+                            "word_text": "les",
+                            "word_id": 20,
+                            "align_id": "14"
+                        }
+                    ]
+                ],
+                [
+                    "moyens",
+                    [
+                        {
+                            "word_text": "moyens",
+                            "word_id": 21,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "d’y",
+                    [
+                        {
+                            "word_text": "d’y",
+                            "word_id": 22,
+                            "align_id": "15"
+                        }
+                    ]
+                ],
+                [
+                    "parvenir,",
+                    [
+                        {
+                            "word_text": "parvenir,",
+                            "word_id": 23,
+                            "align_id": "16"
+                        }
+                    ]
+                ],
+                [
+                    "non",
+                    [
+                        {
+                            "word_text": "non",
+                            "word_id": 24,
+                            "align_id": "17"
+                        }
+                    ]
+                ],
+                [
+                    "plus",
+                    [
+                        {
+                            "word_text": "plus",
+                            "word_id": 25,
+                            "align_id": "18"
+                        }
+                    ]
+                ],
+                [
+                    "que26",
+                    [
+                        {
+                            "word_text": "que",
+                            "word_id": 26,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "le27",
+                    [
+                        {
+                            "word_text": "le",
+                            "word_id": 27,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "mauvais",
+                    [
+                        {
+                            "word_text": "mauvais",
+                            "word_id": 28,
+                            "align_id": "20"
+                        }
+                    ]
+                ],
+                [
+                    "archer,",
+                    [
+                        {
+                            "word_text": "archer,",
+                            "word_id": 29,
+                            "align_id": "21"
+                        }
+                    ]
+                ],
+                [
+                    "qui30",
+                    [
+                        {
+                            "word_text": "qui",
+                            "word_id": 30,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "voit",
+                    [
+                        {
+                            "word_text": "voit",
+                            "word_id": 31,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "le32",
+                    [
+                        {
+                            "word_text": "le",
+                            "word_id": 32,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "blanc",
+                    [
+                        {
+                            "word_text": "blanc",
+                            "word_id": 33,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "&34",
+                    [
+                        {
+                            "word_text": "&",
+                            "word_id": 34,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "n’y",
+                    [
+                        {
+                            "word_text": "n’y",
+                            "word_id": 35,
+                            "align_id": "23"
+                        }
+                    ]
+                ],
+                [
+                    "vise",
+                    [
+                        {
+                            "word_text": "vise",
+                            "word_id": 36,
+                            "align_id": "24"
+                        }
+                    ]
+                ],
+                [
+                    "pas:",
+                    [
+                        {
+                            "word_text": "pas:",
+                            "word_id": 37,
+                            "align_id": "25"
+                        }
+                    ]
+                ],
+                [
+                    "neantmoins",
+                    [
+                        {
+                            "word_text": "neantmoins",
+                            "word_id": 38,
+                            "align_id": "26"
+                        }
+                    ]
+                ],
+                [
+                    "avec",
+                    [
+                        {
+                            "word_text": "avec",
+                            "word_id": 39,
+                            "align_id": "27"
+                        }
+                    ]
+                ],
+                [
+                    "l’adresse",
+                    [
+                        {
+                            "word_text": "l’adresse",
+                            "word_id": 40,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "&41",
+                    [
+                        {
+                            "word_text": "&",
+                            "word_id": 41,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "la42",
+                    [
+                        {
+                            "word_text": "la",
+                            "word_id": 42,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "peine",
+                    [
+                        {
+                            "word_text": "peine",
+                            "word_id": 43,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "qu'il",
+                    [
+                        {
+                            "word_text": "qu'il",
+                            "word_id": 44,
+                            "align_id": "29"
+                        }
+                    ]
+                ],
+                [
+                    "emploira,",
+                    [
+                        {
+                            "word_text": "emploira,",
+                            "word_id": 45,
+                            "align_id": "30"
+                        }
+                    ]
+                ],
+                [
+                    "il",
+                    [
+                        {
+                            "word_text": "il",
+                            "word_id": 46,
+                            "align_id": "31"
+                        }
+                    ]
+                ],
+                [
+                    "y47",
+                    [
+                        {
+                            "word_text": "y",
+                            "word_id": 47,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "pourra",
+                    [
+                        {
+                            "word_text": "pourra",
+                            "word_id": 48,
+                            "align_id": "32"
+                        }
+                    ]
+                ],
+                [
+                    "fraper,",
+                    [
+                        {
+                            "word_text": "fraper,",
+                            "word_id": 49,
+                            "align_id": "33"
+                        }
+                    ]
+                ],
+                [
+                    "ou",
+                    [
+                        {
+                            "word_text": "ou",
+                            "word_id": 50,
+                            "align_id": "34"
+                        }
+                    ]
+                ],
+                [
+                    "approcher:",
+                    [
+                        {
+                            "word_text": "approcher:",
+                            "word_id": 51,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "&52",
+                    [
+                        {
+                            "word_text": "&",
+                            "word_id": 52,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "ne53",
+                    [
+                        {
+                            "word_text": "ne",
+                            "word_id": 53,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "sera",
+                    [
+                        {
+                            "word_text": "sera",
+                            "word_id": 54,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "pas55",
+                    [
+                        {
+                            "word_text": "pas",
+                            "word_id": 55,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "moins",
+                    [
+                        {
+                            "word_text": "moins",
+                            "word_id": 56,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "estime,",
+                    [
+                        {
+                            "word_text": "estime,",
+                            "word_id": 57,
+                            "align_id": "36"
+                        }
+                    ]
+                ],
+                [
+                    "s’il",
+                    [
+                        {
+                            "word_text": "s’il",
+                            "word_id": 58,
+                            "align_id": "37"
+                        }
+                    ]
+                ],
+                [
+                    "ne59",
+                    [
+                        {
+                            "word_text": "ne",
+                            "word_id": 59,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "touche",
+                    [
+                        {
+                            "word_text": "touche",
+                            "word_id": 60,
+                            "align_id": "38"
+                        }
+                    ]
+                ],
+                [
+                    "au",
+                    [
+                        {
+                            "word_text": "au",
+                            "word_id": 61,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "bute,",
+                    [
+                        {
+                            "word_text": "bute,",
+                            "word_id": 62,
+                            "align_id": "39"
+                        }
+                    ]
+                ],
+                [
+                    "pourveu",
+                    [
+                        {
+                            "word_text": "pourveu",
+                            "word_id": 63,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "qu’il64",
+                    [
+                        {
+                            "word_text": "qu’il",
+                            "word_id": 64,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "face",
+                    [
+                        {
+                            "word_text": "face",
+                            "word_id": 65,
+                            "align_id": "41"
+                        }
+                    ]
+                ],
+                [
+                    "tout",
+                    [
+                        {
+                            "word_text": "tout",
+                            "word_id": 66,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "ce67",
+                    [
+                        {
+                            "word_text": "ce",
+                            "word_id": 67,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "qu’il68",
+                    [
+                        {
+                            "word_text": "qu’il",
+                            "word_id": 68,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "doit",
+                    [
+                        {
+                            "word_text": "doit",
+                            "word_id": 69,
+                            "align_id": "43"
+                        }
+                    ]
+                ],
+                [
+                    "pour",
+                    [
+                        {
+                            "word_text": "pour",
+                            "word_id": 70,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "y71",
+                    [
+                        {
+                            "word_text": "y",
+                            "word_id": 71,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "attaindre.",
+                    [
+                        {
+                            "word_text": "attaindre.",
+                            "word_id": 72,
+                            "align_id": "44"
+                        }
+                    ]
+                ]
+            ],
+            "sent_tgt": [
+                [
+                    "And",
+                    [
+                        {
+                            "word_text": "And",
+                            "word_id": 0,
+                            "align_id": "0"
+                        }
+                    ]
+                ],
+                [
+                    "yet1",
+                    [
+                        {
+                            "word_text": "yet",
+                            "word_id": 1,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "oftentimes",
+                    [
+                        {
+                            "word_text": "oftentimes",
+                            "word_id": 2,
+                            "align_id": "13"
+                        }
+                    ]
+                ],
+                [
+                    "it",
+                    [
+                        {
+                            "word_text": "it",
+                            "word_id": 3,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "falleth",
+                    [
+                        {
+                            "word_text": "falleth",
+                            "word_id": 4,
+                            "align_id": "11"
+                        }
+                    ]
+                ],
+                [
+                    "out",
+                    [
+                        {
+                            "word_text": "out",
+                            "word_id": 5,
+                            "align_id": "9"
+                        }
+                    ]
+                ],
+                [
+                    "with",
+                    [
+                        {
+                            "word_text": "with",
+                            "word_id": 6,
+                            "align_id": "27"
+                        }
+                    ]
+                ],
+                [
+                    "many,",
+                    [
+                        {
+                            "word_text": "many,",
+                            "word_id": 7,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "that",
+                    [
+                        {
+                            "word_text": "that",
+                            "word_id": 8,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "having9",
+                    [
+                        {
+                            "word_text": "having",
+                            "word_id": 9,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "propounded",
+                    [
+                        {
+                            "word_text": "propounded",
+                            "word_id": 10,
+                            "align_id": "8"
+                        }
+                    ]
+                ],
+                [
+                    "unto11",
+                    [
+                        {
+                            "word_text": "unto",
+                            "word_id": 11,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "themselves",
+                    [
+                        {
+                            "word_text": "themselves",
+                            "word_id": 12,
+                            "align_id": "7"
+                        }
+                    ]
+                ],
+                [
+                    "certaine",
+                    [
+                        {
+                            "word_text": "certaine",
+                            "word_id": 13,
+                            "align_id": "2"
+                        }
+                    ]
+                ],
+                [
+                    "ends,",
+                    [
+                        {
+                            "word_text": "ends,",
+                            "word_id": 14,
+                            "align_id": "10"
+                        }
+                    ]
+                ],
+                [
+                    "yet15",
+                    [
+                        {
+                            "word_text": "yet",
+                            "word_id": 15,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "can",
+                    [
+                        {
+                            "word_text": "can",
+                            "word_id": 16,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "they",
+                    [
+                        {
+                            "word_text": "they",
+                            "word_id": 17,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "not",
+                    [
+                        {
+                            "word_text": "not",
+                            "word_id": 18,
+                            "align_id": "12"
+                        }
+                    ]
+                ],
+                [
+                    "attaine",
+                    [
+                        {
+                            "word_text": "attaine",
+                            "word_id": 19,
+                            "align_id": "16"
+                        }
+                    ]
+                ],
+                [
+                    "unto20",
+                    [
+                        {
+                            "word_text": "unto",
+                            "word_id": 20,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "the21",
+                    [
+                        {
+                            "word_text": "the",
+                            "word_id": 21,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "end",
+                    [
+                        {
+                            "word_text": "end",
+                            "word_id": 22,
+                            "align_id": "5"
+                        }
+                    ]
+                ],
+                [
+                    "by",
+                    [
+                        {
+                            "word_text": "by",
+                            "word_id": 23,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "them",
+                    [
+                        {
+                            "word_text": "them",
+                            "word_id": 24,
+                            "align_id": "23"
+                        }
+                    ]
+                ],
+                [
+                    "desired;",
+                    [
+                        {
+                            "word_text": "desired;",
+                            "word_id": 25,
+                            "align_id": "25"
+                        }
+                    ]
+                ],
+                [
+                    "no",
+                    [
+                        {
+                            "word_text": "no",
+                            "word_id": 26,
+                            "align_id": "17"
+                        }
+                    ]
+                ],
+                [
+                    "more",
+                    [
+                        {
+                            "word_text": "more",
+                            "word_id": 27,
+                            "align_id": "18"
+                        }
+                    ]
+                ],
+                [
+                    "than28",
+                    [
+                        {
+                            "word_text": "than",
+                            "word_id": 28,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "the29",
+                    [
+                        {
+                            "word_text": "the",
+                            "word_id": 29,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "unskilfull",
+                    [
+                        {
+                            "word_text": "unskilfull",
+                            "word_id": 30,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "archer31",
+                    [
+                        {
+                            "word_text": "archer",
+                            "word_id": 31,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "who",
+                    [
+                        {
+                            "word_text": "who",
+                            "word_id": 32,
+                            "align_id": "22"
+                        }
+                    ]
+                ],
+                [
+                    "shooteth33",
+                    [
+                        {
+                            "word_text": "shooteth",
+                            "word_id": 33,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "farre",
+                    [
+                        {
+                            "word_text": "farre",
+                            "word_id": 34,
+                            "align_id": "33"
+                        }
+                    ]
+                ],
+                [
+                    "and",
+                    [
+                        {
+                            "word_text": "and",
+                            "word_id": 35,
+                            "align_id": "34"
+                        }
+                    ]
+                ],
+                [
+                    "wide",
+                    [
+                        {
+                            "word_text": "wide",
+                            "word_id": 36,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "from",
+                    [
+                        {
+                            "word_text": "from",
+                            "word_id": 37,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "the38",
+                    [
+                        {
+                            "word_text": "the",
+                            "word_id": 38,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "marke",
+                    [
+                        {
+                            "word_text": "marke",
+                            "word_id": 39,
+                            "align_id": "29"
+                        }
+                    ]
+                ],
+                [
+                    "he40",
+                    [
+                        {
+                            "word_text": "he",
+                            "word_id": 40,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "aimed",
+                    [
+                        {
+                            "word_text": "aimed",
+                            "word_id": 41,
+                            "align_id": "24"
+                        }
+                    ]
+                ],
+                [
+                    "at,",
+                    [
+                        {
+                            "word_text": "at,",
+                            "word_id": 42,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "whereas",
+                    [
+                        {
+                            "word_text": "whereas",
+                            "word_id": 43,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "he44",
+                    [
+                        {
+                            "word_text": "he",
+                            "word_id": 44,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "which",
+                    [
+                        {
+                            "word_text": "which",
+                            "word_id": 45,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "shooteth46",
+                    [
+                        {
+                            "word_text": "shooteth",
+                            "word_id": 46,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "markeman",
+                    [
+                        {
+                            "word_text": "markeman",
+                            "word_id": 47,
+                            "align_id": "26"
+                        }
+                    ]
+                ],
+                [
+                    "like,",
+                    [
+                        {
+                            "word_text": "like,",
+                            "word_id": 48,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "although",
+                    [
+                        {
+                            "word_text": "although",
+                            "word_id": 49,
+                            "align_id": "37"
+                        }
+                    ]
+                ],
+                [
+                    "he50",
+                    [
+                        {
+                            "word_text": "he",
+                            "word_id": 50,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "misse",
+                    [
+                        {
+                            "word_text": "misse",
+                            "word_id": 51,
+                            "align_id": "38"
+                        }
+                    ]
+                ],
+                [
+                    "somewhat",
+                    [
+                        {
+                            "word_text": "somewhat",
+                            "word_id": 52,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "the53",
+                    [
+                        {
+                            "word_text": "the",
+                            "word_id": 53,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "marke,",
+                    [
+                        {
+                            "word_text": "marke,",
+                            "word_id": 54,
+                            "align_id": "39"
+                        }
+                    ]
+                ],
+                [
+                    "yet55",
+                    [
+                        {
+                            "word_text": "yet",
+                            "word_id": 55,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "shall56",
+                    [
+                        {
+                            "word_text": "shall",
+                            "word_id": 56,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "he57",
+                    [
+                        {
+                            "word_text": "he",
+                            "word_id": 57,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "shoot",
+                    [
+                        {
+                            "word_text": "shoot",
+                            "word_id": 58,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "neerer",
+                    [
+                        {
+                            "word_text": "neerer",
+                            "word_id": 59,
+                            "align_id": "36"
+                        }
+                    ]
+                ],
+                [
+                    "than60",
+                    [
+                        {
+                            "word_text": "than",
+                            "word_id": 60,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "he,",
+                    [
+                        {
+                            "word_text": "he,",
+                            "word_id": 61,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "neither",
+                    [
+                        {
+                            "word_text": "neither",
+                            "word_id": 62,
+                            "align_id": "35"
+                        }
+                    ]
+                ],
+                [
+                    "shall63",
+                    [
+                        {
+                            "word_text": "shall",
+                            "word_id": 63,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "",
+                    [
+                        {
+                            "word_text": "",
+                            "word_id": 64,
+                            "align_id": "40"
+                        }
+                    ]
+                ],
+                [
+                    "he65",
+                    [
+                        {
+                            "word_text": "he",
+                            "word_id": 65,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "want",
+                    [
+                        {
+                            "word_text": "want",
+                            "word_id": 66,
+                            "align_id": "14"
+                        }
+                    ]
+                ],
+                [
+                    "the67",
+                    [
+                        {
+                            "word_text": "the",
+                            "word_id": 67,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "commendation",
+                    [
+                        {
+                            "word_text": "commendation",
+                            "word_id": 68,
+                            "align_id": "6"
+                        }
+                    ]
+                ],
+                [
+                    "of",
+                    [
+                        {
+                            "word_text": "of",
+                            "word_id": 69,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "a70",
+                    [
+                        {
+                            "word_text": "a",
+                            "word_id": 70,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "good",
+                    [
+                        {
+                            "word_text": "good",
+                            "word_id": 71,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "archer,",
+                    [
+                        {
+                            "word_text": "archer,",
+                            "word_id": 72,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "having73",
+                    [
+                        {
+                            "word_text": "having",
+                            "word_id": 73,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "performed",
+                    [
+                        {
+                            "word_text": "performed",
+                            "word_id": 74,
+                            "align_id": "42"
+                        }
+                    ]
+                ],
+                [
+                    "what",
+                    [
+                        {
+                            "word_text": "what",
+                            "word_id": 75,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "a76",
+                    [
+                        {
+                            "word_text": "a",
+                            "word_id": 76,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "skilfull",
+                    [
+                        {
+                            "word_text": "skilfull",
+                            "word_id": 77,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "archer78",
+                    [
+                        {
+                            "word_text": "archer",
+                            "word_id": 78,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "should",
+                    [
+                        {
+                            "word_text": "should",
+                            "word_id": 79,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "have",
+                    [
+                        {
+                            "word_text": "have",
+                            "word_id": 80,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "done.",
+                    [
+                        {
+                            "word_text": "done.",
+                            "word_id": 81,
+                            "align_id": "None"
+                        }
+                    ]
+                ]
+            ]
+        }
+    ],
+    "4": [
+        {
+            "sent_src": [
+                [
+                    "Mais",
+                    [
+                        {
+                            "word_text": "Mais",
+                            "word_id": 0,
+                            "align_id": "0"
+                        }
+                    ]
+                ],
+                [
+                    "qui1",
+                    [
+                        {
+                            "word_text": "qui",
+                            "word_id": 1,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "ne",
+                    [
+                        {
+                            "word_text": "ne",
+                            "word_id": 2,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "sçait",
+                    [
+                        {
+                            "word_text": "sçait",
+                            "word_id": 3,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "la4",
+                    [
+                        {
+                            "word_text": "la",
+                            "word_id": 4,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "fin",
+                    [
+                        {
+                            "word_text": "fin",
+                            "word_id": 5,
+                            "align_id": "3"
+                        }
+                    ]
+                ],
+                [
+                    "&",
+                    [
+                        {
+                            "word_text": "&",
+                            "word_id": 6,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "definition",
+                    [
+                        {
+                            "word_text": "definition",
+                            "word_id": 7,
+                            "align_id": "4"
+                        }
+                    ]
+                ],
+                [
+                    "du",
+                    [
+                        {
+                            "word_text": "du",
+                            "word_id": 8,
+                            "align_id": "5"
+                        }
+                    ]
+                ],
+                [
+                    "suget",
+                    [
+                        {
+                            "word_text": "suget",
+                            "word_id": 9,
+                            "align_id": "6"
+                        }
+                    ]
+                ],
+                [
+                    "qui10",
+                    [
+                        {
+                            "word_text": "qui",
+                            "word_id": 10,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "luy",
+                    [
+                        {
+                            "word_text": "luy",
+                            "word_id": 11,
+                            "align_id": "7"
+                        }
+                    ]
+                ],
+                [
+                    "est:",
+                    [
+                        {
+                            "word_text": "est:",
+                            "word_id": 12,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "propose,",
+                    [
+                        {
+                            "word_text": "propose,",
+                            "word_id": 13,
+                            "align_id": "8"
+                        }
+                    ]
+                ],
+                [
+                    "cestuy-la",
+                    [
+                        {
+                            "word_text": "cestuy-la",
+                            "word_id": 14,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "est",
+                    [
+                        {
+                            "word_text": "est",
+                            "word_id": 15,
+                            "align_id": "9"
+                        }
+                    ]
+                ],
+                [
+                    "hors",
+                    [
+                        {
+                            "word_text": "hors",
+                            "word_id": 16,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "d'esperance",
+                    [
+                        {
+                            "word_text": "d'esperance",
+                            "word_id": 17,
+                            "align_id": "10"
+                        }
+                    ]
+                ],
+                [
+                    "de",
+                    [
+                        {
+                            "word_text": "de",
+                            "word_id": 18,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "trouver",
+                    [
+                        {
+                            "word_text": "trouver",
+                            "word_id": 19,
+                            "align_id": "11"
+                        }
+                    ]
+                ],
+                [
+                    "jamais",
+                    [
+                        {
+                            "word_text": "jamais",
+                            "word_id": 20,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "les",
+                    [
+                        {
+                            "word_text": "les",
+                            "word_id": 21,
+                            "align_id": "12"
+                        }
+                    ]
+                ],
+                [
+                    "moyens",
+                    [
+                        {
+                            "word_text": "moyens",
+                            "word_id": 22,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "d’y",
+                    [
+                        {
+                            "word_text": "d’y",
+                            "word_id": 23,
+                            "align_id": "13"
+                        }
+                    ]
+                ],
+                [
+                    "parvenir,",
+                    [
+                        {
+                            "word_text": "parvenir,",
+                            "word_id": 24,
+                            "align_id": "14"
+                        }
+                    ]
+                ],
+                [
+                    "non",
+                    [
+                        {
+                            "word_text": "non",
+                            "word_id": 25,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "plus",
+                    [
+                        {
+                            "word_text": "plus",
+                            "word_id": 26,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "que",
+                    [
+                        {
+                            "word_text": "que",
+                            "word_id": 27,
+                            "align_id": "15"
+                        }
+                    ]
+                ],
+                [
+                    "celuy",
+                    [
+                        {
+                            "word_text": "celuy",
+                            "word_id": 28,
+                            "align_id": "16"
+                        }
+                    ]
+                ],
+                [
+                    "qui29",
+                    [
+                        {
+                            "word_text": "qui",
+                            "word_id": 29,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "donne",
+                    [
+                        {
+                            "word_text": "donne",
+                            "word_id": 30,
+                            "align_id": "17"
+                        }
+                    ]
+                ],
+                [
+                    "en",
+                    [
+                        {
+                            "word_text": "en",
+                            "word_id": 31,
+                            "align_id": "18"
+                        }
+                    ]
+                ],
+                [
+                    "l’air",
+                    [
+                        {
+                            "word_text": "l’air",
+                            "word_id": 32,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "sans",
+                    [
+                        {
+                            "word_text": "sans",
+                            "word_id": 33,
+                            "align_id": "19"
+                        }
+                    ]
+                ],
+                [
+                    "voir",
+                    [
+                        {
+                            "word_text": "voir",
+                            "word_id": 34,
+                            "align_id": "20"
+                        }
+                    ]
+                ],
+                [
+                    "la35",
+                    [
+                        {
+                            "word_text": "la",
+                            "word_id": 35,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "bute.",
+                    [
+                        {
+                            "word_text": "bute.",
+                            "word_id": 36,
+                            "align_id": "21"
+                        }
+                    ]
+                ]
+            ],
+            "sent_tgt": [
+                [
+                    "But",
+                    [
+                        {
+                            "word_text": "But",
+                            "word_id": 0,
+                            "align_id": "0"
+                        }
+                    ]
+                ],
+                [
+                    "he1",
+                    [
+                        {
+                            "word_text": "he",
+                            "word_id": 1,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "which2",
+                    [
+                        {
+                            "word_text": "which",
+                            "word_id": 2,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "knoweth",
+                    [
+                        {
+                            "word_text": "knoweth",
+                            "word_id": 3,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "not4",
+                    [
+                        {
+                            "word_text": "not",
+                            "word_id": 4,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "the5",
+                    [
+                        {
+                            "word_text": "the",
+                            "word_id": 5,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "end",
+                    [
+                        {
+                            "word_text": "end",
+                            "word_id": 6,
+                            "align_id": "3"
+                        }
+                    ]
+                ],
+                [
+                    "of7",
+                    [
+                        {
+                            "word_text": "of",
+                            "word_id": 7,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "the8",
+                    [
+                        {
+                            "word_text": "the",
+                            "word_id": 8,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "matter",
+                    [
+                        {
+                            "word_text": "matter",
+                            "word_id": 9,
+                            "align_id": "6"
+                        }
+                    ]
+                ],
+                [
+                    "he10",
+                    [
+                        {
+                            "word_text": "he",
+                            "word_id": 10,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "hath",
+                    [
+                        {
+                            "word_text": "hath",
+                            "word_id": 11,
+                            "align_id": "7"
+                        }
+                    ]
+                ],
+                [
+                    "in",
+                    [
+                        {
+                            "word_text": "in",
+                            "word_id": 12,
+                            "align_id": "18"
+                        }
+                    ]
+                ],
+                [
+                    "hand,",
+                    [
+                        {
+                            "word_text": "hand,",
+                            "word_id": 13,
+                            "align_id": "8"
+                        }
+                    ]
+                ],
+                [
+                    "is14",
+                    [
+                        {
+                            "word_text": "is",
+                            "word_id": 14,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "as15",
+                    [
+                        {
+                            "word_text": "as",
+                            "word_id": 15,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "farre",
+                    [
+                        {
+                            "word_text": "farre",
+                            "word_id": 16,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "from17",
+                    [
+                        {
+                            "word_text": "from",
+                            "word_id": 17,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "the18",
+                    [
+                        {
+                            "word_text": "the",
+                            "word_id": 18,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "hope",
+                    [
+                        {
+                            "word_text": "hope",
+                            "word_id": 19,
+                            "align_id": "10"
+                        }
+                    ]
+                ],
+                [
+                    "of20",
+                    [
+                        {
+                            "word_text": "of",
+                            "word_id": 20,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "attaining",
+                    [
+                        {
+                            "word_text": "attaining",
+                            "word_id": 21,
+                            "align_id": "11"
+                        }
+                    ]
+                ],
+                [
+                    "thereunto,",
+                    [
+                        {
+                            "word_text": "thereunto,",
+                            "word_id": 22,
+                            "align_id": "4"
+                        }
+                    ]
+                ],
+                [
+                    "as23",
+                    [
+                        {
+                            "word_text": "as",
+                            "word_id": 23,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "he24",
+                    [
+                        {
+                            "word_text": "he",
+                            "word_id": 24,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "is25",
+                    [
+                        {
+                            "word_text": "is",
+                            "word_id": 25,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "from26",
+                    [
+                        {
+                            "word_text": "from",
+                            "word_id": 26,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "hitting",
+                    [
+                        {
+                            "word_text": "hitting",
+                            "word_id": 27,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "the28",
+                    [
+                        {
+                            "word_text": "the",
+                            "word_id": 28,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "marke,",
+                    [
+                        {
+                            "word_text": "marke,",
+                            "word_id": 29,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "which30",
+                    [
+                        {
+                            "word_text": "which",
+                            "word_id": 30,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "shooteth",
+                    [
+                        {
+                            "word_text": "shooteth",
+                            "word_id": 31,
+                            "align_id": "16"
+                        }
+                    ]
+                ],
+                [
+                    "at",
+                    [
+                        {
+                            "word_text": "at",
+                            "word_id": 32,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "randon,",
+                    [
+                        {
+                            "word_text": "randon,",
+                            "word_id": 33,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "not34",
+                    [
+                        {
+                            "word_text": "not",
+                            "word_id": 34,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "knowing",
+                    [
+                        {
+                            "word_text": "knowing",
+                            "word_id": 35,
+                            "align_id": "20"
+                        }
+                    ]
+                ],
+                [
+                    "whereat.",
+                    [
+                        {
+                            "word_text": "whereat.",
+                            "word_id": 36,
+                            "align_id": "21"
+                        }
+                    ]
+                ]
+            ]
+        }
+    ],
+    "5": [
+        {
+            "sent_src": [
+                [
+                    "Deduisons",
+                    [
+                        {
+                            "word_text": "Deduisons",
+                            "word_id": 0,
+                            "align_id": "0"
+                        }
+                    ]
+                ],
+                [
+                    "donc",
+                    [
+                        {
+                            "word_text": "donc",
+                            "word_id": 1,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "par",
+                    [
+                        {
+                            "word_text": "par",
+                            "word_id": 2,
+                            "align_id": "1"
+                        }
+                    ]
+                ],
+                [
+                    "le",
+                    [
+                        {
+                            "word_text": "le",
+                            "word_id": 3,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "menu",
+                    [
+                        {
+                            "word_text": "menu",
+                            "word_id": 4,
+                            "align_id": "2"
+                        }
+                    ]
+                ],
+                [
+                    "les",
+                    [
+                        {
+                            "word_text": "les",
+                            "word_id": 5,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "parties",
+                    [
+                        {
+                            "word_text": "parties",
+                            "word_id": 6,
+                            "align_id": "3"
+                        }
+                    ]
+                ],
+                [
+                    "de",
+                    [
+                        {
+                            "word_text": "de",
+                            "word_id": 7,
+                            "align_id": "4"
+                        }
+                    ]
+                ],
+                [
+                    "la",
+                    [
+                        {
+                            "word_text": "la",
+                            "word_id": 8,
+                            "align_id": "5"
+                        }
+                    ]
+                ],
+                [
+                    "definition,",
+                    [
+                        {
+                            "word_text": "definition,",
+                            "word_id": 9,
+                            "align_id": "6"
+                        }
+                    ]
+                ],
+                [
+                    "que",
+                    [
+                        {
+                            "word_text": "que",
+                            "word_id": 10,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "nous",
+                    [
+                        {
+                            "word_text": "nous",
+                            "word_id": 11,
+                            "align_id": "7"
+                        }
+                    ]
+                ],
+                [
+                    "avons",
+                    [
+                        {
+                            "word_text": "avons",
+                            "word_id": 12,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "posee.",
+                    [
+                        {
+                            "word_text": "posee.",
+                            "word_id": 13,
+                            "align_id": "8"
+                        }
+                    ]
+                ]
+            ],
+            "sent_tgt": [
+                [
+                    "Wherefore",
+                    [
+                        {
+                            "word_text": "Wherefore",
+                            "word_id": 0,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "let",
+                    [
+                        {
+                            "word_text": "let",
+                            "word_id": 1,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "us2",
+                    [
+                        {
+                            "word_text": "us",
+                            "word_id": 2,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "well",
+                    [
+                        {
+                            "word_text": "well",
+                            "word_id": 3,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "examine",
+                    [
+                        {
+                            "word_text": "examine",
+                            "word_id": 4,
+                            "align_id": "0"
+                        }
+                    ]
+                ],
+                [
+                    "the5",
+                    [
+                        {
+                            "word_text": "the",
+                            "word_id": 5,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "end,",
+                    [
+                        {
+                            "word_text": "end,",
+                            "word_id": 6,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "and",
+                    [
+                        {
+                            "word_text": "and",
+                            "word_id": 7,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "every",
+                    [
+                        {
+                            "word_text": "every",
+                            "word_id": 8,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "part",
+                    [
+                        {
+                            "word_text": "part",
+                            "word_id": 9,
+                            "align_id": "3"
+                        }
+                    ]
+                ],
+                [
+                    "of",
+                    [
+                        {
+                            "word_text": "of",
+                            "word_id": 10,
+                            "align_id": "4"
+                        }
+                    ]
+                ],
+                [
+                    "the11",
+                    [
+                        {
+                            "word_text": "the",
+                            "word_id": 11,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "definition",
+                    [
+                        {
+                            "word_text": "definition",
+                            "word_id": 12,
+                            "align_id": "6"
+                        }
+                    ]
+                ],
+                [
+                    "by",
+                    [
+                        {
+                            "word_text": "by",
+                            "word_id": 13,
+                            "align_id": "1"
+                        }
+                    ]
+                ],
+                [
+                    "us14",
+                    [
+                        {
+                            "word_text": "us",
+                            "word_id": 14,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "before",
+                    [
+                        {
+                            "word_text": "before",
+                            "word_id": 15,
+                            "align_id": "None"
+                        }
+                    ]
+                ],
+                [
+                    "propounded.",
+                    [
+                        {
+                            "word_text": "propounded.",
+                            "word_id": 16,
+                            "align_id": "8"
+                        }
+                    ]
+                ]
+            ]
+        }
+    ]
+}
