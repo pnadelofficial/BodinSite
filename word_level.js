@@ -1,3 +1,5 @@
+var tooltips = [];
+
 $(document).ready(function(){
   $.getJSON('part_data_stanza.json',function(data){
     $.each(data,function(a,b){
@@ -13,7 +15,7 @@ $(document).ready(function(){
                 $("sent_src").each(function(s){
                   if(s == a){
                     if (typeof j == "object"){
-                      $(this).append("<word word_id="+j[0].word_id+" align_id="+ j[0].align_id+" lemma="+j[0].lemma+" pos="+j[0].upos+" relation="+j[0].deprel+" data-title="+`Lemma:${j[0].lemma}|PartOfSpeech:${j[0].upos}|UDRelationTag:${j[0].deprel}`+">"+j[0].word_text+" "+"</word>")
+                      $(this).append("<word word_id="+j[0].word_id+" align_id="+ j[0].align_id+" lemma="+j[0].lemma+" pos="+j[0].upos+" relation="+j[0].deprel+" data-toggle="+"tooltip"+">"+j[0].word_text+" "+"</word>")
                     }
                   }
                 });
@@ -30,7 +32,7 @@ $(document).ready(function(){
                 $("sent_tgt").each(function(s){
                   if(s == a){
                     if (typeof j == "object"){
-                      $(this).append("<word word_id="+j[0].word_id+" align_id="+ j[0].align_id+" lemma="+j[0].lemma+" pos="+j[0].upos+" relation="+j[0].deprel+" data-title="+`Lemma:${j[0].lemma}|PartOfSpeech:${j[0].upos}|UDRelationTag:${j[0].deprel}`+">"+j[0].word_text+" "+"</word>")
+                      $(this).append("<word word_id="+j[0].word_id+" align_id="+ j[0].align_id+" lemma="+j[0].lemma+" pos="+j[0].upos+" relation="+j[0].deprel+" data-toggle="+"tooltip"+">"+j[0].word_text+" "+"</word>")
                     }
                   }
                 });
@@ -38,6 +40,14 @@ $(document).ready(function(){
             });
           }
         });
+      });
+    });
+    $(function(){
+      $('[data-toggle="tooltip"]').tooltip({
+        placement: 'auto',
+        html: 'true',
+        // `Lemma:${$(this).attr("lemma")}|PartOfSpeech:${$(this).attr("pos")}|UDRelationTag:${$(this).attr("relation")}`
+        title: function(){return `<ul><li>Lemma: ${$(this).attr("lemma")}</li><li>Part of Speech: ${$(this).attr("pos")}</li><li>UD Relation Tag: ${$(this).attr("relation")}</li></ul>`}
       });
     });
   });
