@@ -1,4 +1,3 @@
-var tooltips = [];
 
 $(document).ready(function(){
   $.getJSON('part_data_stanza.json',function(data){
@@ -32,7 +31,7 @@ $(document).ready(function(){
                 $("sent_tgt").each(function(s){
                   if(s == a){
                     if (typeof j == "object"){
-                      $(this).append("<word word_id="+j[0].word_id+" align_id="+ j[0].align_id+" lemma="+j[0].lemma+" pos="+j[0].upos+" relation="+j[0].deprel+" data-toggle="+"tooltip"+">"+j[0].word_text+" "+"</word>")
+                      $(this).append("<word word_id="+j[0].word_id+" align_id="+ j[0].align_id+" lemma="+j[0].lemma+" pos="+j[0].upos+" relation="+j[0].deprel+" feats="+j[0].feats+" data-toggle="+"tooltip"+">"+j[0].word_text+" "+"</word>")
                     }
                   }
                 });
@@ -46,8 +45,50 @@ $(document).ready(function(){
       $('[data-toggle="tooltip"]').tooltip({
         placement: 'auto',
         html: 'true',
-        // `Lemma:${$(this).attr("lemma")}|PartOfSpeech:${$(this).attr("pos")}|UDRelationTag:${$(this).attr("relation")}`
-        title: function(){return `<ul><li>Lemma: ${$(this).attr("lemma")}</li><li>Part of Speech: ${$(this).attr("pos")}</li><li>UD Relation Tag: ${$(this).attr("relation")}</li></ul>`}
+        title: function(){if($(this).attr("feats") != 'undefined'){
+          return `<ul><li>Lemma: ${$(this).attr("lemma")}</li><li>Part of Speech: ${$(this).attr("pos")}</li><li>UD Relation Tag: ${$(this).attr("relation")}</li><li>Features: ${$(this).attr("feats")}</li></ul>`
+        }
+        else{
+          return `<ul><li>Lemma: ${$(this).attr("lemma")}</li><li>Part of Speech: ${$(this).attr("pos")}</li><li>UD Relation Tag: ${$(this).attr("relation")}</li></ul>`
+        }
+      }
+      });
+    });
+  });
+});
+
+$(document).ready(function(){
+  $.getJSON('part_data_latin_stanza_noft.json',function(data){
+    $.each(data,function(a,b){
+      $.each(b, function(c,d){
+        $.each(d, function(e,f){
+          if(e == "sent_src"){
+          }
+          else{
+            $("chap_lat").append("<sent_lat>")
+            $("sent_lat").attr("sent_id",function(index){
+              return index;
+            });
+            $.each(f,function(g,h){
+              $.each(h, function(i,j){
+                $("sent_lat").each(function(s){
+                  if(s == a){
+                    if (typeof j == "object"){
+                      $(this).append("<word word_id="+j[0].word_id+" align_id="+ j[0].align_id+" lemma="+j[0].lemma+" pos="+j[0].upos+" relation="+j[0].deprel+" feats="+j[0].feats+" data-toggle="+"tooltip"+">"+j[0].word_text+" "+"</word>")
+                    }
+                  }
+                });
+              });
+            });
+          }
+        });
+      });
+    });
+    $(function(){
+      $('[data-toggle="tooltip"]').tooltip({
+        placement: 'auto',
+        html: 'true',
+        title: function(){return `<ul><li>Lemma: ${$(this).attr("lemma")}</li><li>Part of Speech: ${$(this).attr("pos")}</li><li>UD Relation Tag: ${$(this).attr("relation")}</li><li>Features: ${$(this).attr("feats")}</li></ul>`}
       });
     });
   });
